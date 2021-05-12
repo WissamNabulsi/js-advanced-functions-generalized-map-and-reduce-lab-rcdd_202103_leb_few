@@ -20,4 +20,4 @@ function reduce(src, cb, starting){
 
   return r;
 }
-© 2021 GitHub, Inc.
+
