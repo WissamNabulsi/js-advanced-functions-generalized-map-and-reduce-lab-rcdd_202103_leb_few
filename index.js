@@ -20,4 +20,3 @@ function reduce(src, cb, starting){
 
   return r;
 }
-
